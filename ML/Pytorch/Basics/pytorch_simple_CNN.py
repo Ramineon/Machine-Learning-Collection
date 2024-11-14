@@ -11,7 +11,6 @@ Programmed by Aladdin Persson
 * 2022-12-19: Small revision of code, checked that it works with latest PyTorch version
 
 """
-
 # Imports
 import torch
 import torch.nn.functional as F  # Parameterless functions, like (some) activation functions
